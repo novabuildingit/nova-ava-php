@@ -1,0 +1,19 @@
+{
+    "name": "novabuildingit/nova-ava-php",
+    "type": "library",
+    "description": "NOVA AVA PHP Client Library",
+    "keywords": ["rest", "api", "tender", "award", "settlement", "construction", "software", "billing"],
+    "license": "MIT",
+    "homepage": "http://www.novabuilding.de",
+    "authors": [{
+        "name": "NOVA Building IT GmbH",
+        "email": "info@novabuilding.de",
+        "homepage": "http://www.novabuilding.de"
+    }],
+    "autoload": {
+        "psr-0": {
+            "Nova": "lib/"
+        }
+    }
+}
+
